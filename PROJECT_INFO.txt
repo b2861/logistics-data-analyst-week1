@@ -1,0 +1,4 @@
+Logistics Data Analyst Intern - Week 1
+Strategic Planning and Data Exploration in Logistics
+Author: Bhakti Dayanand Jirge
+Dataset: Olist Brazilian E-Commerce Public Dataset
